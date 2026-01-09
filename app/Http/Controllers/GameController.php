@@ -69,7 +69,7 @@ class GameController extends Controller
                 'platform' => 'Multiple',
                 'genre' => 'Puzzle',
                 'description' => 'El juego de puzzle más adictivo de todos los tiempos. Coloca las piezas para completar filas.',
-                'image' => 'https://via.placeholder.com/300x200?text=Tetris',
+                'image' => 'https://e01-phantom-elmundo.uecdn.es/109a37d92cded903df0c05b42c0ac6ae/resize/1200/f/webp/assets/multimedia/imagenes/2023/07/28/16905463193747.png',
                 'developer' => 'The Tetris Company'
             ],
         ];
